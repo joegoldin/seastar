@@ -16,7 +16,7 @@ It is based on [futures](http://en.wikipedia.org/wiki/Futures_and_promises).
 Building Seastar
 --------------------
 
-For more details and alternative work-flows, read [HACKING.md](./HACKING.md).
+For more details and alternative work-flows, read [HACKING.md](./HACKING.md), or see system-specific guides in the [doc](./doc) folder.
 
 Assuming that you would like to use system packages (RPMs or DEBs) for Seastar's dependencies, first install them:
 
